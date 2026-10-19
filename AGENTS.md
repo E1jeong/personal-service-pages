@@ -2,7 +2,7 @@
 
 ## Context
 
-This is a code-navigation and safety guide, not project history. Product context, service requirements, roadmap, and history live in the vault-relative `Dev/Project/Personal/personal-service-pages` wiki; resolve it through `_meta/routing-tables.md` or `obsidian-wiki-sync`, then follow the vault root `AGENTS.md`.
+This is a code-navigation and safety guide, not project history. Product context, service requirements, roadmap, and history live in the vault-relative `Dev/Project/Personal/personal-service-pages` wiki; resolve it through `_meta/routing-tables.md` or `obsidian-wiki-sync`.
 
 ## Code Map
 
